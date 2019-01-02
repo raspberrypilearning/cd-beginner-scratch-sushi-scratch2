@@ -1,58 +1,50 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/cd-beginner-scratch-sushi).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+These Sushi Cards are going to help you learn to create computer programs in Scratch!
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+You will make a game where you move a shark around to try and catch fish.
+
+Here's an example of how your finished game might look:
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/205355052/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
+Press the green flag to start the game. Use the arrow keys to move the shark around and catch the fish.
 
 --- collapse ---
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+* Adding and deleting code blocks
+* Basic motion: move in steps, and turn by degrees
+* Using keyboard controls
+* Using (x, y) coordinates to position sprites
+* Changing the look of the Stage and of sprites with costumes and show/hide commands
+* Having multiple sprites on screen
+* Using `forever`{:class="blockcontrol"} loops
+* Detecting when sprites are touching
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: What you will need
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+You’re going to need **Scratch 2.0**, so download and install it on your computer by going to [dojo.soy/downloadscratch2](http://dojo.soy/downloadscratch2)
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+Once you’re set up, you can move on to the next step!
 
 --- /collapse ---
+
+![Tracking pixel](http://code.org/api/hour/begin_coderdojo_sushi.png)
